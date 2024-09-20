@@ -4,7 +4,7 @@ locals {
   subscription_id     = "dd1b3041-17d1-49c4-854c-696224d72fb5"
   tenant_id           = "39eafb87-49d3-46eb-82b1-867b38750ebe"
   sp_client_id        = "923add4d-e2f6-434d-a11d-0e763d7046d6"
-  sp_client_secret    = "5iO8Q~BJfESb2m8vXutiyhr0yDx7ZlrLvCenocMZ"
+  sp_client_secret    = ""
 
   cosmosdb = {
     account_name = "skina-cosmos"
